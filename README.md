@@ -3,28 +3,28 @@
 Welcome to my github, a window to my world of code!
 
 
-#### Who? 
+#### Who? 🧑‍💻 🧘‍♂️ 🧗‍♂️
 
 My name is Jose Marcos, I am a co-founder and CTO @ [MeliorAI](http://melior.ai/). I am mostly and by training, an AI/ML engineer, 
 but generally speaking I consider myself a science and tech enthusiast. 
 
-#### What?
+#### What? 🤔 
 
 - 🔭 I’m currently working on _Conversational AI_. Working on dialogue understanding and cross-lingual langauge understanding. 
 
 - 🔬 My researchs is now focused on unsupervised methods for dialogue learning. 
    Looking into combining Reinforcement Learning, simulation and generational methods to dialogue understanding 
 
-#### Where & How? 
+#### Where & How? 🌍 
 
 I've been working remotely for 5+ years now, which I wouldn't change. 
-This allows me as an individual to be where I most like; in the mountains ⛰️ 
+This allows me as an individual to be where I most like; in the mountains ⛰️ !!
 (I love hiking, climbing, cycling, canyoning, alpinism... and any mountains sport other than skiing). 
 
 As a CTO and startup owner thi opens the door to all the wonderful talented people around the entire globe!
 
 
-#### Github stats
+#### Github stats 📊 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jmrf&count_private=true&show_icons=true&theme=default" />
