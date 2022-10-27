@@ -10,10 +10,10 @@ but generally speaking I consider myself a science and tech enthusiast.
 
 #### What? 🤔 
 
-- 🔭 I’m currently working on _Conversational AI_. Working on dialogue understanding and cross-lingual langauge understanding. 
+- 🔭 I’m currently working on _Conversational AI_. Working on cross-lingual question-answering and langauge understanding for information retrieval. 
 
-- 🔬 My researchs is now focused on unsupervised methods for dialogue learning. 
-   Looking into combining Reinforcement Learning, simulation and generational methods to dialogue understanding 
+- 🔬 My researchs in NLP is now focused on unsupervised methods for Question Answering and retrieval in large textual corpus. 
+   Outside of NLP I am looking into Hierarchical, Open-ended Reinforcement Learning and skill discovery.  
 
 #### Where & How? 🌍 
 
@@ -21,7 +21,7 @@ I've been working remotely for 5+ years now, which I wouldn't change.
 This allows me as an individual to be where I most like; in the mountains ⛰️ !!
 (I love hiking, climbing, cycling, canyoning, alpinism... and any mountains sport other than skiing). 
 
-As a CTO and startup owner thi opens the door to all the wonderful talented people around the entire globe!
+As a CTO and startup owner this opens the door to all the wonderful talented people around the entire globe!
 
 
 #### Github stats 📊 
