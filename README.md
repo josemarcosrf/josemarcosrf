@@ -6,11 +6,11 @@ Welcome to my github, a window to my world of code!
 #### Who? 🧑‍💻 🧘‍♂️ 🧗‍♂️
 
 My name is Jose Marcos, I am a co-founder and CTO @ [MeliorAI](http://melior.ai/). I am mostly and by training, an AI/ML engineer, 
-but generally speaking I consider myself a science and tech enthusiast. 
+a hobbiest tech tinkerer and curoius and enthusiastic about many areas of science. 
 
 #### What? 🤔 
 
-- 🔭 I’m currently working on _Conversational AI_. Working on cross-lingual question-answering and langauge understanding for information retrieval. 
+- 🔭 I’m currently working on cross-lingual question-answering and langauge understanding for information retrieval. 
 
 - 🔬 My researchs in NLP is now focused on unsupervised methods for Question Answering and retrieval in large textual corpus. 
    Outside of NLP I am looking into Hierarchical, Open-ended Reinforcement Learning and skill discovery.  
