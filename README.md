@@ -27,13 +27,12 @@ As a CTO and startup owner this opens the door to all the wonderful talented peo
 #### Github stats 📊 
 
 
+![JMRF's GitHub stats](https://github-readme-stats-jmrf.vercel.app/api?username=jmrf&show_icons=true&theme=default)
 
-<a href="https://github.com/jmrf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-jmrf.vercel.app/api?username=jmrf&count_private=true&show_icons=true&theme=default" />
-</a>
-<a href="https://github.com/jmrf/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-jmrf.vercel.app/api/top-langs/?username=jmrf&langs_count=8&layout=compact" />
-</a>
+![Top Langs](https://github-readme-stats-jmrf.vercel.app/api/top-langs/?username=jmrf)
+
+<!-- ![jmrf's wakatime stats](https://github-readme-stats-jmrf.vercel.app/api/wakatime?username=jmrf) -->
+
 
 <!--
 **jmrf/jmrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
