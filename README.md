@@ -10,10 +10,10 @@ a hobbiest tech tinkerer and curoius and enthusiastic about many areas of scienc
 
 #### What? 🤔 
 
-- 🔭 I’m currently working on cross-lingual question-answering and langauge understanding for information retrieval. 
+- 🔭 I’m currently working on **cross-lingual question-answering** and **langauge understanding** for **information retrieval**. 
 
 - 🔬 My researchs in NLP is now focused on unsupervised methods for Question Answering and retrieval in large textual corpus. 
-   Outside of NLP I am looking into Hierarchical, Open-ended Reinforcement Learning and skill discovery.  
+   Outside of NLP I am looking into **Hierarchical, Open-ended Reinforcement Learning** and **skill discovery**.  
 
 #### Where & How? 🌍 
 
