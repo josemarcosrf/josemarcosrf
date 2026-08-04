@@ -1,6 +1,6 @@
 # Hi, I'm Marcos 👋
 
-I enjoy understanding complex systems—and building them.
+I enjoy understanding complex systems, and building them.
 
 Most of my professional work has been in AI and machine learning, spanning research, startups, and production engineering. I've worked on information retrieval, document understanding, question answering, and distributed AI systems, and previously co-founded an AI startup where I served as CTO, helping turn research into products used by real customers.
 
