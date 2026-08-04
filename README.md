@@ -1,49 +1,45 @@
-### Aloha 👋
+# Hi, I'm Marcos 👋
 
-Welcome to my github, a window to my world of code!
+I enjoy understanding complex systems—and building them.
 
+Most of my professional work has been in AI and machine learning, spanning research, startups, and production engineering. I've worked on information retrieval, document understanding, question answering, and distributed AI systems, and previously co-founded an AI startup where I served as CTO, helping turn research into products used by real customers.
 
-#### Who? 🧑‍💻 🧘‍♂️ 🧗‍♂️
+But AI is only one expression of a broader curiosity.
 
-hey there, my name is Jose Marcos, I am a co-founder and CTO @ [MeliorAI](http://melior.ai/). I am mostly and by training, an AI/ML engineer, 
-a hobbiest tech tinkerer and curoius and enthusiastic about many areas of science. 
+I like taking things apart, understanding how they work, and putting them back together—whether that's a distributed compute cluster, a neural network, an electrical system for an RV, or the mathematics behind post-quantum cryptography.
 
-#### What? 🤔 
+## What I enjoy working on
 
-- 🔭 I’m currently working on **cross-lingual question-answering** and **langauge understanding** for **information retrieval**. 
+- 🤖 AI systems & LLM infrastructure
+- 🔎 Information retrieval & search
+- 🧠 Machine learning & representation learning
+- ⚙️ Distributed systems
+- 🐍 Python and backend engineering
+- 🎮 Reinforcement learning
+- 🔐 Quantum computing & cryptography
+- 🐧 Linux, networking & self-hosting
+- 🔌 Embedded systems & electronics
 
-- 🔬 My research in NLP is now focused on unsupervised methods for Question Answering, Document Understanding and retrieval in large textual corpus. 
-   Outside of NLP I am interested in **Hierarchical, Open-ended Reinforcement Learning** and **skill discovery**.  
+## What you'll find here
 
-#### Where & How? 🌍 
+This GitHub is a collection of projects, experiments, and ideas that caught my curiosity.
 
-I've been working remotely for 5+ years now, which I wouldn't change. 
-This allows me to be where I most like; in the mountains ⛰️ hiking, climbing, cycling, canyoning, doing alpinism... 
+Some started as research.
+Some solved problems I encountered at work.
+Some exist simply because I wanted to learn something new.
 
-As a CTO and startup owner this opens the door to all the wonderful talented people around the entire globe!
+Some repositories are polished. Others are half-finished experiments. Both taught me something.
 
+I care less about chasing the latest technology than about understanding the ideas behind it.
 
-#### Github stats 📊 
+## Beyond the keyboard
 
+Remote work has allowed me to spend the last decade living close to the mountains—a trade I wouldn't make for anything.
 
-![JMRF's GitHub stats](https://github-readme-stats-jmrf.vercel.app/api?username=jmrf&show_icons=true&theme=default)
+When I'm not in front of a terminal, you'll probably find me hiking, climbing, cycling, canyoning, or building another engineering project that somehow became much more ambitious than originally planned.
 
-![Top Langs](https://github-readme-stats-jmrf.vercel.app/api/top-langs/?username=jmrf)
+---
 
-<!-- ![jmrf's wakatime stats](https://github-readme-stats-jmrf.vercel.app/api/wakatime?username=jmrf) -->
-
-
-<!--
-**josemarcosrf/josemarcosrf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Most things I build start with a simple question:*
+>
+> **"I wonder how this works..."**
